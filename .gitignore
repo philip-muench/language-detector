@@ -1,3 +1,7 @@
+.settings
+.classpath
+.project
 /target
 /language-detector.iml
 .idea/
+/bin/
